@@ -7,11 +7,9 @@
 
 <div align="center">
  
- 🔭 I’m a Student and work as a Freelancer**
+ 🔭 **I’m a Student and work as a Freelancer**
  
  🌱 I’m currently learning **Docker, IoS developer tools, RNN**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
 ⚡ Fun fact **Why did Anakin Skywalker quit programming in Java?
 Because every time he tried to compile, he ended up in the dark side with a heap of errors!**
