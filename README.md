@@ -25,9 +25,6 @@ Porque toda vez que ele tentava compilar, acabava no lado negro com um monte de 
   </a>
 </div>
 
- <hr/>
- 
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
