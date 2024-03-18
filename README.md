@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/clarapmorais/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiclarapmorais=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
