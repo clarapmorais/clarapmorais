@@ -11,8 +11,8 @@
  
  🌱 I’m currently learning **Docker, IoS developer tools, RNN**
 
-⚡ Fun fact **Why did Anakin Skywalker quit programming in Java?
-Because every time he tried to compile, he ended up in the dark side with a heap of errors!**
+⚡ Fun fact **Por que Anakin Skywalker desistiu de programar em Java?
+Porque toda vez que ele tentava compilar, acabava no lado negro com um monte de erros!**
 
  </div>
  
