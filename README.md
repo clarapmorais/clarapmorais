@@ -29,7 +29,7 @@ Porque toda vez que ele tentava compilar, acabava no lado negro com um monte de 
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=eclipse,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=java,python,C#,javascript,php,mysql,C++" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,php,mysql,C++" /><br>
 </div>
 
 <br/>
