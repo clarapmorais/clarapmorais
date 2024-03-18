@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=100&color=47ADF7&center=true&random=false&width=435&separator=%3C&lines=Hi+There!%3CI'm+Clara+Morais)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=100&color=1297CD&center=true&vCenter=true&random=false&width=435&lines=Hi+There!;I'm+Clara%E2%98%95%E2%99%A8%EF%B8%8F)](https://git.io/typing-svg)
