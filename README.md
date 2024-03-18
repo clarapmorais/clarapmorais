@@ -25,7 +25,6 @@ Because every time he tried to compile, he ended up in the dark side with a heap
   <a href="[https://www.linkedin.com/in/clara-morais-aa55802aa/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://clarapmorais.github.io" target="_blank">
 </div>
 
  <hr/>
