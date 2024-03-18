@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiclarapmorais=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarapmorais&hide=contribs,prs)
