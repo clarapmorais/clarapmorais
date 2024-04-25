@@ -8,8 +8,6 @@
 <div align="center">
  
  🔭 **I’m a Student and work as a Freelancer**
- 
- 🌱 I’m currently learning **Docker, IoS developer tools, RNN**
 
 ⚡ Fun fact **Por que Anakin Skywalker desistiu de programar em Java?
 Porque toda vez que ele tentava compilar, acabava no lado negro com um monte de erros!**
